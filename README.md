@@ -15,22 +15,21 @@
 <br><br>
 
 ### 3. System Diagram
-<p align="center">
-  <img src="./Images/시스템 구상도.jpg" style="width: 50%; height: auto;">
+<p>
+  <img src="./Images/시스템 구상도.jpg" style="width: 30%; height: auto;">
 </p>
 
 <br><br>
 
-### 5. MIT App Inventor
+### 4. System Implementation
 <p>
-  <img src="./Images/App Inventor Bluetooth Logic.jpg" style="width: 30%; height: auto;">
-  <br>
-  <img src="./Images/App Inventor Bluetooth Send Text.jpg" style="width: 30%; height: auto;">
+  <img src="./Images/Background subtraction.jpg" style="width: 35%; height: auto;">
+  <img src="./Images/승객 입출입을 확인하기 위한 선들 정의.jpg" style="width: 35%; height: auto;">
 </p>  
 
 <br><br>
 
-### 5. Implementation
+### 5. Test Environment
 <p>
-  <img src="./Images/하드웨어 구현.jpg" style="width: 50%; height: auto;">
+  <img src="./Images/실제 환경 테시트.jpg" style="width: 50%; height: auto;">
 </p>
